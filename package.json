@@ -1,0 +1,6 @@
+{
+  "name": "node-jwt-auth-package",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/jwt.js"
+}

@@ -7,3 +7,6 @@ Run: `node src/jwt.js`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by AlexanderAM1231.*
